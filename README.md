@@ -6,6 +6,7 @@ Implementation, calibration, and extension of the Cox-Ingersoll-Ross (CIR)
 model on real historical yield curve data.
 
 ## Results
+
 - Out-of-sample R² = **0.9211** (target > 0.85 ✓)
 - Evaluated on 495 test days (Apr 2024 – Apr 2026)
 - Yield curve reconstructed from **3M rate only**
